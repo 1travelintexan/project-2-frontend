@@ -4,9 +4,9 @@ function App() {
   return (
     <>
       <h1>Our Frontend</h1>
-      {/* this is our cool routes
-      here is a route 
-      here is another route */}
+      {/* this is our cool routes I wrote some stuff here to be a bad teammate
+      here is a route this will annoy Eric
+      here is another route  more conflicts */}
     </>
   );
 }
